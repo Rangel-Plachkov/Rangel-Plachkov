@@ -50,7 +50,7 @@ I'm a student based in Sofia, passionate programming and building electronic pro
 
 
 
-- LinkedIn: [rangel-plachkov](https://www.linkedin.com/in/rangel-plachkov/)
+- [Linked In](https://www.linkedin.com/in/rangel-plachkov/)
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rangel-Plachkov&show_icons=true)
 
