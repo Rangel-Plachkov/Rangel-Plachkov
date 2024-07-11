@@ -49,5 +49,8 @@ I'm a student based in Sofia, passionate programming and building electronic pro
 </p>
 
 
-  ![Rangel GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rangel-Plachkov&show_icons=true)
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rangel-Plachkov&show_icons=true" alt="Rangel GitHub Stats">
+</div>
+
 
