@@ -1,6 +1,7 @@
 # Hi there
 
 I'm a student based in Sofia, passionate programming and building electronic projects.
+
 <a href="https://www.linkedin.com/in/rangel-plachkov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 
 
