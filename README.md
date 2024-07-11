@@ -6,7 +6,7 @@ I'm a student based in Sofia, passionate programming and building electronic pro
 
 ## Projects
 
-[![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github.com/Rangel-Plachkov/PopcornPals))]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Rangel-Plachkov/PopcornPals/blob/master/README.md))
+[![PopcornPals](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github.com/Rangel-Plachkov/PopcornPals))]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Rangel-Plachkov/PopcornPals/blob/master/README.md))
 
 Short description of Project 1.
 
