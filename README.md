@@ -1,4 +1,4 @@
-# Hi there
+# Hello
 
 I'm a student based in Sofia, passionate programming and building electronic projects.
 
