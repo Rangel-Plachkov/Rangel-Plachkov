@@ -48,6 +48,6 @@ I'm a student based in Sofia, passionate programming and building electronic pro
   </a>
 </p>
 
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rangel-Plachkov&show_icons=true)
-
+<center>
+  ![Rangel GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rangel-Plachkov&show_icons=true)
+</center>
