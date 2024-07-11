@@ -1,8 +1,7 @@
 # Hi there
 
-## About Me
-
 I'm a student based in Sofia, passionate programming and building electronic projects.
+<a href="https://www.linkedin.com/in/rangel-plachkov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -48,9 +47,6 @@ I'm a student based in Sofia, passionate programming and building electronic pro
   </a>
 </p>
 
-
-
-- [Linked In](https://www.linkedin.com/in/rangel-plachkov/)
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rangel-Plachkov&show_icons=true)
 
